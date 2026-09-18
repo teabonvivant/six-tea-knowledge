@@ -1,0 +1,138 @@
+/* Tea Atlas / Editorial edition. Shared, additive, responsive; no runtime framework. */
+.atlas-v4{--paper:#f8f8f3;--ink:#22392f;--ink-soft:#3e5147;--muted:#57675a;--line:#d7ddcf;--surface:#fffefb;--v4-copper:#79523a;--gutter:20px}
+.atlas-v4 a,.atlas-v4 button{touch-action:manipulation}
+.atlas-v4 :focus-visible{outline:3px solid #936222;outline-offset:4px}
+.atlas-v4 [hidden]{display:none!important}
+.atlas-v4 .head-inner{max-width:1400px}
+.atlas-v4 .brand-copy small{font-size:10px}
+.atlas-v4 .crumbs{font-size:14px;line-height:1.8}
+.atlas-v4 .meta,.atlas-v4 .reading-meta{font-size:14px}
+.atlas-v4 .list-item h3{line-height:1.75}
+.atlas-v4 .list-item h3 a:hover{text-decoration:underline;text-underline-offset:.3em}
+.atlas-v4 .badge{font-size:13px}
+.atlas-v4 .source-disclosure>summary{min-height:60px;padding:20px 6px;font-size:16px}
+.atlas-v4 .table-wrap{scrollbar-width:thin}
+.atlas-v4 :is(.table-wrap,.matrix-wrap):focus-visible{outline-offset:3px}
+.atlas-v4 .mobile-nav-panel{max-height:calc(100dvh - 140px);overflow-y:auto;overscroll-behavior:contain}
+.v4-overline{color:var(--v4-copper);font:600 12px/1.7 var(--sans);letter-spacing:.14em;text-transform:uppercase;margin:0 0 12px}
+.v4-small{font:400 14px/1.85 var(--sans);color:var(--muted)}
+.v4-section{padding:44px 0;border-top:1px solid var(--line)}
+.v4-section h2{font-size:clamp(1.7rem,3vw,2.25rem);line-height:1.55}
+.v4-section-heading{display:flex;flex-wrap:wrap;align-items:end;justify-content:space-between;gap:16px;margin-bottom:24px}
+.v4-section-heading p{margin:0;color:var(--muted)}
+/* Article opening pairs a reading proposition with a subject-specific vector plate. */
+.atlas-v4.page-article .v4-chapter-hero{display:grid;grid-template-columns:minmax(0,1fr);gap:28px;border-bottom:1px solid var(--line);padding:16px 0 32px;align-items:center}
+.v4-chapter-hero .eyebrow{font-size:13px;letter-spacing:.08em;color:var(--tea-accent)}
+.atlas-v4 .v4-chapter-hero h1{font-size:clamp(2.05rem,4.25vw,3.45rem);line-height:1.4;max-width:none;margin:10px 0 18px}
+.v4-chapter-hero .v4-deck{font:500 clamp(1.02rem,1.9vw,1.35rem)/1.8 var(--serif);color:var(--ink);margin-bottom:12px}
+.atlas-v4 .v4-chapter-hero .lede{font:400 16px/1.95 var(--sans);max-width:36ic;margin:0 0 18px}
+.v4-plate{margin:0;min-width:0}
+.v4-plate img{width:100%;height:auto;aspect-ratio:460/316;border:1px solid var(--line);border-radius:2px}
+.v4-plate figcaption{font:400 12px/1.7 var(--sans);color:var(--muted);padding-top:8px}
+.v4-status{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;font-size:13px;line-height:1.8;margin:18px 0 0}
+.v4-status .badge{border:1px solid #d8cda9}
+.v4-status a{min-height:32px;display:inline-flex;align-items:center}
+/* Reading aids are static HTML. They work even when JavaScript is disabled. */
+.atlas-v4 .reader-layout{gap:24px;padding-top:26px}
+.atlas-v4 .chapter-copy{width:100%;max-width:none;font-size:18px;line-height:1.95}
+.atlas-v4 .chapter-copy p{margin-bottom:1.3em}
+.atlas-v4 .chapter-copy .chapter-section{margin-bottom:44px}
+.atlas-v4 .chapter-copy h2{font-size:clamp(1.4rem,2.1vw,1.8rem);line-height:1.65;letter-spacing:.01em}
+.v4-section-number{display:block;font:500 12px/1.6 var(--sans);letter-spacing:.15em;color:var(--tea-accent);margin-bottom:8px}
+.v4-summary{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--tea-accent);padding:24px;margin-bottom:38px}
+.v4-summary h2{font-family:var(--serif);margin-bottom:16px}
+.v4-summary ol{list-style:none;padding:0;margin:0;counter-reset:summary}
+.v4-summary li{position:relative;padding:15px 0 15px 37px;border-top:1px solid var(--line);font-size:16px;line-height:1.9;margin:0;counter-increment:summary}
+.v4-summary li:before{content:'0' counter(summary);position:absolute;left:0;top:17px;color:var(--tea-accent);font:600 12px/1.8 var(--sans)}
+.v4-summary li a{display:inline-flex;min-height:32px;font-size:13px;margin-left:8px}
+.v4-summary .v4-small{font-size:13px;margin:12px 0 0}
+.v4-toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:0 0 28px}
+.v4-toolbar button,.v4-toolbar a,.v4-controls button,.v4-action{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:44px;padding:8px 13px;background:var(--surface);border:1px solid #7c8d7b;border-radius:2px;color:var(--ink);font:500 14px/1.6 var(--sans);text-decoration:none}
+.v4-toolbar button[aria-pressed=true],.v4-filter button[aria-pressed=true]{background:var(--forest-deep);color:#fff}
+.v4-reader-message{width:100%;margin:0;font:400 13px/1.8 var(--sans);color:var(--muted)}
+.v4-reader-message:empty{display:none}
+.atlas-v4 .chapter-toc{border:1px solid var(--line);background:var(--surface);border-radius:2px}
+.atlas-v4 .chapter-toc summary{padding:16px;font-size:16px}
+.atlas-v4 .chapter-toc nav{padding:0 12px 12px}
+.atlas-v4 .chapter-toc nav a{min-height:40px;padding:9px 8px;font:400 14px/1.6 var(--sans);border-left:2px solid transparent}
+.atlas-v4 .chapter-toc nav a[aria-current=location]{border-left-color:var(--tea-accent);font-weight:600}
+.atlas-v4 .chapter-facts{font-size:13px}
+.v4-reading-note{font:400 13px/1.9 var(--sans);border-top:1px solid var(--line);padding-top:16px;margin-top:20px}
+.v4-reading-note a{display:inline-flex;align-items:center;min-height:44px}
+/* Existing process copy becomes a visual, numbered sequence without deleting text. */
+.atlas-v4 .process-figure:not(.compact){background:var(--surface);border:1px solid var(--line);padding:24px;margin:30px 0}
+.atlas-v4 .process-figure:not(.compact) li{border-top:0;border-left:1px solid var(--line);margin-left:14px;padding:0 0 24px 20px;position:relative}
+.atlas-v4 .process-figure:not(.compact) li:last-child{padding-bottom:6px}
+.atlas-v4 .process-figure:not(.compact) .process-number{position:relative;left:-35px;background:var(--tea-accent);color:white;width:29px;height:29px;flex:0 0 29px;display:grid;place-items:center;border-radius:50%;font-size:11px;margin-right:-27px}
+.atlas-v4 .process-figure:not(.compact) li p{font-size:15px}
+.v4-figure-caption{font-size:13px}
+.v4-practice{border-top:2px solid var(--tea-accent);padding:22px;background:var(--tea-tint)}
+.v4-faq{border-top:1px solid var(--line);margin:30px 0}
+.v4-faq h2{padding-top:22px}
+.v4-faq summary{min-height:52px;padding:12px 0;font:600 16px/1.8 var(--sans);color:var(--tea-accent)}
+.v4-faq details>div{font-size:16px;line-height:1.9;padding:4px 0 12px}
+.v4-further{padding:30px 0;border-top:1px solid var(--line);display:grid;gap:14px}
+.v4-further>a{display:block;padding:18px;border:1px solid var(--line);background:var(--surface);text-decoration:none}
+.v4-further strong{display:block;font:600 19px/1.7 var(--serif);margin-top:5px}
+.v4-related-teas{display:flex;flex-wrap:wrap;gap:8px}
+.v4-related-teas a{display:flex;align-items:center;min-height:44px;padding:7px 14px;border:1px solid var(--line);text-decoration:none;font-size:14px}
+.v4-crossnav{margin-top:24px;padding-top:24px;border-top:1px solid var(--line)}
+.v4-crossnav p{font-size:14px;color:var(--muted);margin-bottom:12px}
+/* Problem-first homepage and learning desk. */
+.v4-question-grid{display:grid;grid-template-columns:minmax(0,1fr);border-top:1px solid var(--line)}
+.v4-question{position:relative;display:block;padding:23px 36px 23px 0;border-bottom:1px solid var(--line);text-decoration:none;min-width:0}
+.v4-question .v4-overline{font-size:12px;margin-bottom:8px;letter-spacing:.08em}
+.v4-question h3{font:600 21px/1.65 var(--serif);color:var(--ink);margin:0 0 9px}
+.v4-question p{font-size:15px;line-height:1.85;color:var(--ink-soft);margin:0}
+.v4-question:after{content:'↗';position:absolute;right:5px;top:30px;color:var(--tea-accent);font-size:22px}
+.v4-question:hover h3{text-decoration:underline;text-underline-offset:.25em}
+.v4-trust-strip{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:14px;padding:20px 0;border-bottom:1px solid var(--line);font-size:14px}
+.v4-trust-strip p{margin:0;max-width:70ch}
+.v4-trust-strip a{display:inline-flex;min-height:44px;align-items:center;white-space:nowrap}
+.v4-featured-guide{display:grid;gap:26px;padding:30px;background:var(--tea-tint);margin-block:26px}
+.v4-featured-guide img{max-width:460px;width:100%;height:auto}
+.v4-index-groups{display:grid;gap:24px;margin:28px 0}
+.v4-index-group{padding:24px;border:1px solid var(--line);background:var(--surface)}
+.v4-index-group a{display:block;min-height:44px;padding:9px 0;border-top:1px solid var(--line);font-size:15px;text-decoration:none}
+/* Comparisons remain qualitative: no invented ratings, temperatures or percentages. */
+.v4-compare{padding:26px;background:var(--surface);border:1px solid var(--line);margin:26px 0}
+.v4-compare-controls{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:18px 0}
+.v4-compare label{display:grid;gap:8px;font-size:14px}
+.v4-compare select,.v4-form :is(input,select,textarea){width:100%;min-height:48px;border:1px solid #7c8d7b;background:white;border-radius:2px;padding:10px 12px;font:400 16px/1.6 var(--sans);color:var(--ink);max-width:100%}
+.v4-compare-results{display:grid;gap:18px;grid-template-columns:repeat(2,minmax(0,1fr))}
+.v4-compare-card{min-width:0;border-top:3px solid var(--tea-accent);padding-top:17px}
+.v4-compare-card h3{font-size:23px}
+.v4-compare-card p{font-size:15px;line-height:1.95}
+.v4-compare-card ol{padding-left:22px;font-size:15px}
+.v4-filter{display:flex;flex-wrap:wrap;gap:9px;margin:20px 0}
+.v4-filter button{min-height:44px;padding:9px 14px;border:1px solid #7c8d7b;background:var(--surface);color:var(--ink);border-radius:2px;font:500 14px/1.6 var(--sans)}
+.v4-study-kind{font:600 13px/1.7 var(--sans);color:var(--tea-accent);margin-bottom:6px}
+.v4-filter-note{font-size:14px;color:var(--muted);margin:12px 0}
+.v4-correction{border-left:3px solid #9e6a2a;background:#f5efdf;padding:18px 22px;margin:22px 0;font-size:15px;line-height:1.9}
+.v4-correction h2,.v4-correction h3{font-size:20px}
+.v4-raw{margin-top:9px;font-size:13px;color:var(--muted)}
+.v4-raw summary{min-height:36px;padding:5px 0}
+.v4-form{display:grid;grid-template-columns:minmax(0,1fr);gap:18px;margin:22px 0}
+.v4-form label{display:grid;gap:6px;font-size:14px;line-height:1.8;min-width:0}
+.v4-form .v4-wide{grid-column:1/-1}
+.v4-form textarea{min-height:110px;resize:vertical}
+.v4-controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;grid-column:1/-1}
+.v4-notes-output{white-space:pre-wrap;word-break:break-word;line-height:1.9;border:1px solid var(--line);padding:20px;background:var(--surface);margin:20px 0}
+.v4-empty{padding:24px;border:1px dashed #82907d;line-height:1.9}
+.v4-saved{list-style:none;padding:0;margin:0}
+.v4-saved li{display:flex;align-items:center;justify-content:space-between;gap:20px;border-bottom:1px solid var(--line);padding:18px 0}
+.v4-saved a{font-size:18px;line-height:1.8}
+.v4-saved button{min-height:44px;padding:8px 12px;border:1px solid #7c8d7b;background:transparent;font-size:14px;flex-shrink:0}
+.v4-policy-grid{display:grid;gap:24px}
+.v4-policy-grid article{border-top:2px solid var(--tea-accent);padding-top:20px}
+.v4-policy-grid p{font-size:16px}
+.v4-original-art{margin:30px 0;border-block:1px solid var(--line)}
+.v4-original-art>summary{min-height:48px;padding:12px 0;color:var(--muted);font-size:14px}
+.v4-large-type .chapter-copy{font-size:22px!important;line-height:2.05!important}
+.v4-large-type .chapter-copy p,.v4-large-type .chapter-copy li{font-size:inherit!important}
+.v4-large-type .v4-summary li{font-size:20px!important}
+@media(min-width:640px){.v4-question-grid{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:32px}.v4-index-groups{grid-template-columns:repeat(3,minmax(0,1fr))}.v4-further{grid-template-columns:repeat(2,minmax(0,1fr))}.v4-form{grid-template-columns:repeat(2,minmax(0,1fr))}.v4-policy-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.v4-featured-guide{grid-template-columns:1fr 1fr;align-items:center}.v4-section{padding:54px 0}}
+@media(min-width:980px){.atlas-v4{--gutter:24px}.atlas-v4.page-article main{max-width:1260px;padding-top:26px}.atlas-v4.page-article .v4-chapter-hero{grid-template-columns:minmax(0,1.25fr) minmax(0,.85fr);gap:56px;padding:20px 0 36px}.atlas-v4 .reader-layout{grid-template-columns:minmax(0,1fr) 244px;gap:56px;padding-top:34px}.atlas-v4 .chapter-copy{font-size:19px;line-height:1.98}.v4-chapter-hero .reading-meta{margin-top:16px}.v4-question-grid{grid-template-columns:repeat(3,minmax(0,1fr));column-gap:36px}.v4-plate{max-width:460px}.v4-summary{padding:28px 30px}.atlas-v4 .chapter-toc{max-height:calc(100dvh - 140px)}.v4-section{padding:60px 0}}
+@media(max-width:639px){.v4-chapter-hero .v4-plate{max-width:460px}.v4-summary{padding:20px}.v4-summary li{padding-left:31px}.v4-compare{padding:18px}.v4-compare-results{grid-template-columns:minmax(0,1fr)}.v4-compare-controls{gap:12px}.v4-question h3{font-size:20px}.v4-featured-guide{padding:22px}.v4-index-groups{gap:16px}.v4-toolbar{gap:8px}.v4-toolbar button,.v4-toolbar a{padding-inline:10px}.v4-saved li{align-items:start}.v4-status{margin-top:14px}.atlas-v4 .home-intro h1{font-size:2.25rem}.atlas-v4 .home-hero .hero-plate img{max-height:320px;object-fit:cover}.v4-trust-strip{font-size:13px}}
+@media(prefers-reduced-motion:reduce){.atlas-v4 *{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+@media print{.v4-toolbar,.v4-controls,.v4-filter,.v4-compare-controls,.v4-crossnav{display:none!important}.atlas-v4 .chapter-copy{font-size:11pt!important}.v4-chapter-hero{display:block!important}.v4-plate{max-width:9cm;margin:12px 0}.v4-summary,.v4-faq{break-inside:avoid}.v4-original-art{display:none}.v4-section{padding:12px 0}.v4-form{display:none}.v4-notes-output{border:1px solid #999}}

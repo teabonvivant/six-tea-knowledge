@@ -1,4 +1,4 @@
-/* Progressive enhancement: all reading, search and navigation work without JS. */
+/* Progressive enhancement: reading and directory navigation work without JS; keyword search requires JS. */
 (() => {
   const menu = document.querySelector('.mobile-nav');
   document.addEventListener('keydown', event => {

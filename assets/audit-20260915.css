@@ -1,0 +1,51 @@
+/* Reading and search improvements; preserves the existing Tea Atlas visual design. */
+[hidden] { display: none !important; }
+main, .hero > *, .list-item > *, .card, .chapter-copy, .side-layout > * { min-width: 0; }
+.hero h1, .list-item h3, .crumbs, td, .source-card, .evidence-card { overflow-wrap: anywhere; }
+.chapter-copy p, .chapter-copy li { font-size: 17px; line-height: 1.95; }
+.list-item p, .card p { font-size: 15px; line-height: 1.85; }
+.meta, .badge, .chapter-meta, .chapter-toc a, .crumbs { font-size: 13px; }
+.content-illustration figcaption, .tea-portrait figcaption { font-size: 12px; }
+.filter { flex-wrap: wrap; gap: 10px; }
+.filter input { min-width: 0; font-size: 16px; }
+.filter button, .filter select, .search-more, .search-clear { min-height: 44px; font-size: 15px; }
+.search-clear { border: 1px solid var(--line); background: var(--surface); color: var(--ink); padding: 10px 16px; border-radius: 4px; cursor: pointer; }
+.search-results { padding-block: 20px 32px; scroll-margin-top: 100px; }
+.search-results h2 { margin-bottom: 12px; }
+.search-results [role='status'] { color: var(--ink-soft); font-size: 15px; line-height: 1.8; }
+.search-result-note { color: var(--muted); margin-top: 12px; }
+.search-more { margin-top: 24px; cursor: pointer; }
+.audit-note { padding: 18px 20px; margin-block: 20px; border: 1px solid var(--line); border-left: 4px solid var(--forest); border-radius: 4px; background: var(--forest-soft); }
+.audit-note h2, .audit-note h3 { font: 600 17px/1.7 var(--sans); margin: 0 0 8px; }
+.audit-note p { font-size: 14px; line-height: 1.85; margin: 6px 0; }
+.audit-note a { text-decoration: underline; text-underline-offset: 3px; }
+.audit-warning { background: #fcf7ed; border-color: #ded0b1; border-left-color: #8c6631; }
+.source-reading-note { margin-block: 12px; }
+.audit-legend { display: grid; gap: 16px; }
+.audit-legend dt { font-weight: 600; margin-bottom: 4px; }
+.audit-legend dd { margin: 0; line-height: 1.9; }
+.audit-provenance-label { font-size: 12px; color: var(--muted); }
+.score-label { font-size: 12px; cursor: help; }
+.table-wrap th { line-height: 1.65; }
+.table-wrap td, .table-wrap th { font-size: 14px; }
+nav.pagination a { min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; }
+@media (max-width: 639px) {
+  .filter input { flex: 1 1 100%; width: 100%; }
+  .filter select { flex: 1 1 150px; max-width: 100%; }
+  .chapter-copy p, .chapter-copy li { font-size: 16px; }
+  .tea-tile p, .archive-copy p, .learning-step p { font-size: 14px; line-height: 1.85; }
+  .audit-note { padding: 16px; }
+  .search-results .list-item { padding-block: 20px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto !important; }
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}
+@media print {
+  .mobile-bottom, .mobile-nav, .reading-progress, .search-more, .search-clear { display: none !important; }
+  .audit-note { break-inside: avoid; }
+}
+/* Closed details must not contribute off-screen menu geometry. */
+.mobile-nav:not([open]) > .mobile-nav-panel { display: none; }
+/* Long imported section locators are text nodes, not always links or table cells. */
+main p, main dd { overflow-wrap: anywhere; }

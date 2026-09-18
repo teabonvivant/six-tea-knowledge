@@ -1,0 +1,804 @@
+{
+  "version": "v4.1",
+  "date": "2026-09-16",
+  "chapters": [
+    {
+      "path": "tea/black-tea/brewing/index.html",
+      "tea": "紅茶",
+      "topic": "沖泡",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "TBR-W"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/chemical-composition/index.html",
+      "tea": "紅茶",
+      "topic": "化學成分",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/ebooks/index.html",
+      "tea": "紅茶",
+      "topic": "電子書及古籍",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/experts/index.html",
+      "tea": "紅茶",
+      "topic": "專家",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/fulltext-documents/index.html",
+      "tea": "紅茶",
+      "topic": "全文文件",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/history/index.html",
+      "tea": "紅茶",
+      "topic": "歷史及地方志",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/knowledge-structure/index.html",
+      "tea": "紅茶",
+      "topic": "分類與知識架構",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "ISO20715",
+        "TBR-P"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/manufacturing/index.html",
+      "tea": "紅茶",
+      "topic": "製茶",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "TBR-P"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/medical-research/index.html",
+      "tea": "紅茶",
+      "topic": "醫學與安全",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "RED-R",
+        "COHORT"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/online-knowledge/index.html",
+      "tea": "紅茶",
+      "topic": "線上知識",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/research-articles/index.html",
+      "tea": "紅茶",
+      "topic": "研究文章",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/sensory-characteristics/index.html",
+      "tea": "紅茶",
+      "topic": "感官特徵",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/stories/index.html",
+      "tea": "紅茶",
+      "topic": "故事與考證",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/traditional-craft/index.html",
+      "tea": "紅茶",
+      "topic": "傳統工藝及非遺",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/black-tea/traditional-tea-therapy/index.html",
+      "tea": "紅茶",
+      "topic": "傳統茶療",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/brewing/index.html",
+      "tea": "黑茶",
+      "topic": "沖泡",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/chemical-composition/index.html",
+      "tea": "黑茶",
+      "topic": "化學成分",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/ebooks/index.html",
+      "tea": "黑茶",
+      "topic": "電子書及古籍",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/experts/index.html",
+      "tea": "黑茶",
+      "topic": "專家",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/fulltext-documents/index.html",
+      "tea": "黑茶",
+      "topic": "全文文件",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/history/index.html",
+      "tea": "黑茶",
+      "topic": "歷史及地方志",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/knowledge-structure/index.html",
+      "tea": "黑茶",
+      "topic": "分類與知識架構",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "ISO20715",
+        "DARK-H"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/manufacturing/index.html",
+      "tea": "黑茶",
+      "topic": "製茶",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "ISO20715"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/medical-research/index.html",
+      "tea": "黑茶",
+      "topic": "醫學與安全",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "DARK-H",
+        "DARK-A",
+        "DARK-F"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/online-knowledge/index.html",
+      "tea": "黑茶",
+      "topic": "線上知識",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/research-articles/index.html",
+      "tea": "黑茶",
+      "topic": "研究文章",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/sensory-characteristics/index.html",
+      "tea": "黑茶",
+      "topic": "感官特徵",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/stories/index.html",
+      "tea": "黑茶",
+      "topic": "故事與考證",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/traditional-craft/index.html",
+      "tea": "黑茶",
+      "topic": "傳統工藝及非遺",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/dark-tea/traditional-tea-therapy/index.html",
+      "tea": "黑茶",
+      "topic": "傳統茶療",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/brewing/index.html",
+      "tea": "綠茶",
+      "topic": "沖泡",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "TBR-W"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/chemical-composition/index.html",
+      "tea": "綠茶",
+      "topic": "化學成分",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "TBR-W"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/ebooks/index.html",
+      "tea": "綠茶",
+      "topic": "電子書及古籍",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/experts/index.html",
+      "tea": "綠茶",
+      "topic": "專家",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/fulltext-documents/index.html",
+      "tea": "綠茶",
+      "topic": "全文文件",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/history/index.html",
+      "tea": "綠茶",
+      "topic": "歷史及地方志",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/knowledge-structure/index.html",
+      "tea": "綠茶",
+      "topic": "分類與知識架構",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "ISO20715",
+        "TBR-P"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/manufacturing/index.html",
+      "tea": "綠茶",
+      "topic": "製茶",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "TBR-P"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/medical-research/index.html",
+      "tea": "綠茶",
+      "topic": "醫學與安全",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "GREEN-H",
+        "NCCIH",
+        "COHORT"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/online-knowledge/index.html",
+      "tea": "綠茶",
+      "topic": "線上知識",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/research-articles/index.html",
+      "tea": "綠茶",
+      "topic": "研究文章",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/sensory-characteristics/index.html",
+      "tea": "綠茶",
+      "topic": "感官特徵",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/stories/index.html",
+      "tea": "綠茶",
+      "topic": "故事與考證",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/traditional-craft/index.html",
+      "tea": "綠茶",
+      "topic": "傳統工藝及非遺",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/green-tea/traditional-tea-therapy/index.html",
+      "tea": "綠茶",
+      "topic": "傳統茶療",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/brewing/index.html",
+      "tea": "烏龍茶",
+      "topic": "沖泡",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "TBR-W"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/chemical-composition/index.html",
+      "tea": "烏龍茶",
+      "topic": "化學成分",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "GABA-H"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/ebooks/index.html",
+      "tea": "烏龍茶",
+      "topic": "電子書及古籍",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/experts/index.html",
+      "tea": "烏龍茶",
+      "topic": "專家",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/fulltext-documents/index.html",
+      "tea": "烏龍茶",
+      "topic": "全文文件",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/history/index.html",
+      "tea": "烏龍茶",
+      "topic": "歷史及地方志",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/knowledge-structure/index.html",
+      "tea": "烏龍茶",
+      "topic": "分類與知識架構",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "ISO20715",
+        "TBR-P"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/manufacturing/index.html",
+      "tea": "烏龍茶",
+      "topic": "製茶",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "TBR-P"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/medical-research/index.html",
+      "tea": "烏龍茶",
+      "topic": "醫學與安全",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "OOLONG-H",
+        "GABA-H",
+        "COHORT"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/online-knowledge/index.html",
+      "tea": "烏龍茶",
+      "topic": "線上知識",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/research-articles/index.html",
+      "tea": "烏龍茶",
+      "topic": "研究文章",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/sensory-characteristics/index.html",
+      "tea": "烏龍茶",
+      "topic": "感官特徵",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/stories/index.html",
+      "tea": "烏龍茶",
+      "topic": "故事與考證",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/traditional-craft/index.html",
+      "tea": "烏龍茶",
+      "topic": "傳統工藝及非遺",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/oolong-tea/traditional-tea-therapy/index.html",
+      "tea": "烏龍茶",
+      "topic": "傳統茶療",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/brewing/index.html",
+      "tea": "白茶",
+      "topic": "沖泡",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/chemical-composition/index.html",
+      "tea": "白茶",
+      "topic": "化學成分",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "WHITE-M",
+        "LEAF-STEM"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/ebooks/index.html",
+      "tea": "白茶",
+      "topic": "電子書及古籍",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/experts/index.html",
+      "tea": "白茶",
+      "topic": "專家",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/fulltext-documents/index.html",
+      "tea": "白茶",
+      "topic": "全文文件",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/history/index.html",
+      "tea": "白茶",
+      "topic": "歷史及地方志",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/knowledge-structure/index.html",
+      "tea": "白茶",
+      "topic": "分類與知識架構",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "ISO20715",
+        "WHITE-M"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/manufacturing/index.html",
+      "tea": "白茶",
+      "topic": "製茶",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "WHITE-M",
+        "WHITE-E"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/medical-research/index.html",
+      "tea": "白茶",
+      "topic": "醫學與安全",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "WHITE-H",
+        "GW-R",
+        "WG-R"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/online-knowledge/index.html",
+      "tea": "白茶",
+      "topic": "線上知識",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/research-articles/index.html",
+      "tea": "白茶",
+      "topic": "研究文章",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/sensory-characteristics/index.html",
+      "tea": "白茶",
+      "topic": "感官特徵",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/stories/index.html",
+      "tea": "白茶",
+      "topic": "故事與考證",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/traditional-craft/index.html",
+      "tea": "白茶",
+      "topic": "傳統工藝及非遺",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/white-tea/traditional-tea-therapy/index.html",
+      "tea": "白茶",
+      "topic": "傳統茶療",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/brewing/index.html",
+      "tea": "黃茶",
+      "topic": "沖泡",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/chemical-composition/index.html",
+      "tea": "黃茶",
+      "topic": "化學成分",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "YELLOW-C"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/ebooks/index.html",
+      "tea": "黃茶",
+      "topic": "電子書及古籍",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/experts/index.html",
+      "tea": "黃茶",
+      "topic": "專家",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/fulltext-documents/index.html",
+      "tea": "黃茶",
+      "topic": "全文文件",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/history/index.html",
+      "tea": "黃茶",
+      "topic": "歷史及地方志",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/knowledge-structure/index.html",
+      "tea": "黃茶",
+      "topic": "分類與知識架構",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "ISO20715",
+        "YELLOW-P"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/manufacturing/index.html",
+      "tea": "黃茶",
+      "topic": "製茶",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "YELLOW-P"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/medical-research/index.html",
+      "tea": "黃茶",
+      "topic": "醫學與安全",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [
+        "YELLOW-C",
+        "YELLOW-A",
+        "SIX-A"
+      ],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/online-knowledge/index.html",
+      "tea": "黃茶",
+      "topic": "線上知識",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/research-articles/index.html",
+      "tea": "黃茶",
+      "topic": "研究文章",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/sensory-characteristics/index.html",
+      "tea": "黃茶",
+      "topic": "感官特徵",
+      "scope": "正文重寫及資料補查",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/stories/index.html",
+      "tea": "黃茶",
+      "topic": "故事與考證",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/traditional-craft/index.html",
+      "tea": "黃茶",
+      "topic": "傳統工藝及非遺",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    },
+    {
+      "path": "tea/yellow-tea/traditional-tea-therapy/index.html",
+      "tea": "黃茶",
+      "topic": "傳統茶療",
+      "scope": "文風整理；內容仍待擴充",
+      "new_sources": [],
+      "expert_reviewed": false
+    }
+  ],
+  "study_field_status": {
+    "legacy_not_rechecked": 125,
+    "not_yet_checked": 149,
+    "source_checked": 100,
+    "partially_checked": 20,
+    "not_applicable": 10,
+    "source_conflict": 2
+  },
+  "externally_reviewed_core_chapters": 0
+}

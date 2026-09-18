@@ -1,0 +1,12 @@
+{
+  "edition": "editorial-v4",
+  "date": "2026-09-16",
+  "chapters": 90,
+  "expert_finalized": 0,
+  "new_routes": [
+    "/six-tea-knowledge/start/",
+    "/six-tea-knowledge/reading-list/",
+    "/six-tea-knowledge/brewing-lab/",
+    "/six-tea-knowledge/editorial/"
+  ]
+}
