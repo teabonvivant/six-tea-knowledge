@@ -1,0 +1,163 @@
+{
+  "ISO20715": {
+    "title": "ISO 20715:2023 — Tea: Classification of tea types",
+    "url": "https://www.iso.org/standard/75419.html",
+    "scope": "官方目錄及摘要；未取得付費條文全文。用於分類文件的範圍，不作個別產品的認證。"
+  },
+  "ISO5617": {
+    "title": "ISO/TS 5617:2025 — Tea: Classification by chemical composition",
+    "url": "https://www.iso.org/standard/81441.html",
+    "scope": "官方目錄及摘要；2025年9月公布的技術規範。未取得完整判別公式及驗證資料。"
+  },
+  "TBR-P": {
+    "title": "茶及飲料作物改良場：臺灣特色茶分類及加工",
+    "url": "https://www.tbrs.gov.tw/ws.php?id=5273",
+    "scope": "讀取公開技術說明；只引用相關工序，不能代表各產區的全部製法。"
+  },
+  "TBR-W": {
+    "title": "戴佳如：水質及水溫對茶湯品質之影響",
+    "url": "https://www.tbrs.gov.tw/ws.php?id=5283",
+    "scope": "公開試驗摘要；列出測試水溫與感官方向，未列齊茶水比、時間、重複數，不是完整沖泡方案。"
+  },
+  "TBR-S": {
+    "title": "戴佳如：茶葉之包裝貯藏",
+    "url": "https://www.tbrs.gov.tw/ws.php?id=5282",
+    "scope": "公開技術說明；以保鮮為主，不能直接當成黑茶陳化方案。"
+  },
+  "WHITE-M": {
+    "title": "基於非靶向代謝組學分析白茶室內自然萎凋過程代謝物的變化規律",
+    "url": "https://www.tea-science.com/CN/10.13305/j.cnki.jts.20210304.001",
+    "scope": "期刊摘要；福安大白茶、室內自然萎凋、過程取樣。未完成全文方法覆核。"
+  },
+  "WHITE-E": {
+    "title": "不同控溫除濕萎凋環境對白茶風味品質和化學輪廓的影響",
+    "url": "https://www.tea-science.com/CN/10.13305/j.cnki.jts.2022.04.011",
+    "scope": "期刊摘要；六個品種及四種控溫除濕處理的比較，不是所有白茶的標準參數。"
+  },
+  "YELLOW-P": {
+    "title": "悶黃工藝因子對黃茶品質及滋味化學組分的影響研究",
+    "url": "https://www.tea-science.com/CN/10.13305/j.cnki.jts.2019.01.007",
+    "scope": "期刊摘要；檢視葉溫、葉含水率、環境濕度及透氣操作等條件。"
+  },
+  "YELLOW-C": {
+    "title": "（2019）黃茶悶黃時間、化學成分與 HepG2 細胞試驗",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1002/fsn3.1036",
+    "scope": "摘要已讀；化學分析及細胞試驗，非人體治療研究。DOI: 10.1002/fsn3.1036。"
+  },
+  "LEAF-STEM": {
+    "title": "茶葉萎凋過程中氨基酸和多酚在葉莖內的時空變化特徵",
+    "url": "https://www.tea-science.com/CN/10.13305/j.cnki.jts.2025.02.009",
+    "scope": "期刊摘要；分別分析葉片及嫩莖，數值不能移作整個茶類平均。"
+  },
+  "NCCIH": {
+    "title": "NCCIH：Green Tea",
+    "url": "https://www.nccih.nih.gov/health/green-tea",
+    "scope": "官方健康資訊；區分飲料與濃縮萃取物、咖啡因和藥物交互作用。"
+  },
+  "EFSA": {
+    "title": "EFSA：Green tea catechins safety assessment（2018）",
+    "url": "https://www.efsa.europa.eu/en/press/news/180418",
+    "scope": "官方安全評估說明；不能把觀察到風險的劑量倒推為其下皆安全。"
+  },
+  "WHITE-H": {
+    "title": "（2024）White Tea Consumption Alleviates Anthropometric and Metabolic Parameters in Obese Patients",
+    "url": "https://www.mdpi.com/1648-9144/60/10/1568",
+    "scope": "核對摘要及 Results 3.1；91人參加、54人完成。未完成分派方法及各組效應量的全文核查。"
+  },
+  "DARK-H": {
+    "title": "（2025）Liupao Tea and Metabolic Syndrome",
+    "url": "https://www.mdpi.com/2072-6643/17/14/2371",
+    "scope": "核對摘要及 Results 3.1–3.4；71人、四種陳期、90日。主要比較不同陳期，沒有不飲茶組。"
+  },
+  "OOLONG-H": {
+    "title": "（2020）Subacute Ingestion of Caffeine and Oolong Tea…",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7760339/",
+    "scope": "摘要已讀；12名非肥胖男性、交叉試驗、每段14日。觀察脂肪氧化，不能等同長期減重。"
+  },
+  "GREEN-H": {
+    "title": "（2016）Safety of one-year administration of green tea catechins",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28053292/",
+    "scope": "摘要及v4已核對的分組資料；去咖啡因兒茶素萃取物，97人隨機分派，非普通綠茶茶湯。"
+  },
+  "GABA-H": {
+    "title": "（2019）GABA-Fortified Oolong Tea and Stress",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30972340/",
+    "scope": "摘要；30名參與者，壓力與心率變異度測量，不是失眠治療的驗證。"
+  },
+  "YELLOW-A": {
+    "title": "Yellow Teas Protect against DSS-Induced Ulcerative Colitis… in Mice（2024）",
+    "url": "https://www.mdpi.com/2304-8158/13/17/2843",
+    "scope": "摘要；小鼠DSS結腸炎模型及黃茶水萃取物，非病人的療效試驗。"
+  },
+  "SIX-A": {
+    "title": "Six Types of Tea Reduce Acute Alcoholism in Mice…（2022）",
+    "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.848918/full",
+    "scope": "摘要及研究對象；比較六茶、小鼠試驗，不是人體解酒證據。"
+  },
+  "RED-R": {
+    "title": "Health-Promoting Effects of Black Tea: A Narrative Review of Clinical Trials（2025）",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40008375/",
+    "scope": "敘述性綜述；不是有498,043人參加的單一臨床試驗。"
+  },
+  "GW-R": {
+    "title": "Healthy properties of green and white teas: an update（2017）",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28640307/",
+    "scope": "綜述；原有1507抽取值不是本篇自有試驗樣本量。"
+  },
+  "WG-R": {
+    "title": "Tea’s anti-obesity properties…: A review focusing on white and green teas（2023）",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37823174/",
+    "scope": "綜述；不能因引用動物研究就把整篇標成動物實驗，612原抽取值不作本篇樣本量。"
+  },
+  "COHORT": {
+    "title": "Oba 等：茶、咖啡與糖尿病風險的日本社區隊列研究",
+    "url": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/consumption-of-coffee-green-tea-oolong-tea-black-tea-chocolate-snacks-and-the-caffeine-content-in-relation-to-risk-of-diabetes-in-japanese-men-and-women/E262310C3485025A0D099FE04BF1BF73",
+    "scope": "摘要及Results已讀；2009年網上刊登、2010年期刊出版；5897男、7643女。觀察研究，不是隨機飲茶試驗。"
+  },
+  "DARK-A": {
+    "title": "Qin 等（2022）：Instant Dark Tea Alleviates Hyperlipidaemia in High-Fat Diet-Fed Rat",
+    "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.819980/full",
+    "scope": "核對摘要及Animals and Experiment Design；50隻雄性SD大鼠、每組10隻。文中12週與8週敘述不一致，時長標為待釐清。"
+  },
+  "DARK-F": {
+    "title": "Li 等（2019）：Microbial and metabolomic remodeling by a formula of Sichuan dark tea…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219010",
+    "scope": "摘要已讀；YNKB是以四川黑茶為基礎的配方，小鼠試驗，不能作純茶人體療效證據。"
+  },
+  "UNESCO": {
+    "title": "UNESCO：中國傳統製茶技藝及其相關習俗",
+    "url": "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884"
+  },
+  "ANJI": {
+    "title": "農業農村部：安吉白茶的品種與綠茶分類",
+    "url": "https://cnafun.moa.gov.cn/zt/gjcr/202005/t20200519_6344633.html"
+  },
+  "AMO": {
+    "title": "香港古物古蹟辦事處：茶盞裡的風波——宋代飲茶的生活情趣",
+    "url": "https://www.amo.gov.hk/tc/visitor-centre/exhibitions/sung-wong-toi-station/1/index.html"
+  },
+  "CFS": {
+    "title": "香港食物安全中心：食物上的黴菌——潛在的健康風險？",
+    "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_222_01.html"
+  },
+  "FLAVOUR": {
+    "title": "茶及飲料作物改良場：特色茶風味輪",
+    "url": "https://www.tbrs.gov.tw/en/ws.php?id=4868"
+  },
+  "METHODS": {
+    "title": "NCCIH：研究類型的閱讀方法",
+    "url": "https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/methods/types-of-research"
+  },
+  "DESIGN": {
+    "title": "NCCIH：理解研究設計與對照",
+    "url": "https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/methods/design-of-the-study"
+  },
+  "RESULTS": {
+    "title": "NCCIH：閱讀研究結果與效果大小",
+    "url": "https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/results"
+  },
+  "SIZE": {
+    "title": "NCCIH：研究規模與參與者",
+    "url": "https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/methods/size-of-the-study"
+  }
+}
