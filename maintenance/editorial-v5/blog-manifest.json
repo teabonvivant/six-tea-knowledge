@@ -1,0 +1,1408 @@
+[
+  {
+    "slug": "six-teas-one-leaf",
+    "title": "六種茶，從同一片葉開始",
+    "cat": "認識六茶",
+    "images": [
+      "leaves",
+      "garden"
+    ],
+    "keys": [
+      "ISO20715",
+      "TBR-P"
+    ],
+    "related": "tea/green-tea/knowledge-structure/",
+    "lead": "茶桌上，六只碟子排開，顏色由青綠走向深褐。它們的差別，看來像六種植物的身世，其實更接近同一種原料走過的六條路。分類的線索藏在採摘以後：葉片何時受熱、怎樣失水，又在甚麼條件下轉變。"
+  },
+  {
+    "slug": "green-not-only-colour",
+    "title": "綠茶的綠，不只是一種顏色",
+    "cat": "認識六茶",
+    "images": [
+      "pan",
+      "leafbottom"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "tea/green-tea/manufacturing/",
+    "lead": "一杯綠茶放在窗邊，茶湯未必碧綠。有時偏黃，有時很淡，杯壁的厚薄與桌面的光，也會改變眼前的顏色。若只憑這一眼辨茶，容易把光線當成製法，把濃淡當成品質。"
+  },
+  {
+    "slug": "white-tea-and-white-hair",
+    "title": "白毫輕輕，白茶有自己的分類",
+    "cat": "認識六茶",
+    "images": [
+      "white",
+      "withering"
+    ],
+    "keys": [
+      "ISO20715",
+      "TBR-P"
+    ],
+    "related": "tea/white-tea/knowledge-structure/",
+    "lead": "銀白色的茸毛，往往是人對白茶的第一個印象。芽頭在斜光下像披着薄霜，名字也因此顯得順理成章。然而，葉上的毫與茶的類別，是兩件需要分開看的事。"
+  },
+  {
+    "slug": "yellow-tea-pause",
+    "title": "黃茶，在工序裏多停一步",
+    "cat": "認識六茶",
+    "images": [
+      "leaves",
+      "notebook"
+    ],
+    "keys": [
+      "YELLOW-P"
+    ],
+    "related": "tea/yellow-tea/manufacturing/",
+    "lead": "在一排茶樣中，黃茶往往不會大聲招呼人。它的乾葉與茶湯未必足以讓初學者一眼認出，真正值得留意的，是製作過程裏那段悶黃。"
+  },
+  {
+    "slug": "oolong-between-processes",
+    "title": "烏龍茶的香，走過不止一道工序",
+    "cat": "認識六茶",
+    "images": [
+      "oolong",
+      "roast"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "tea/oolong-tea/manufacturing/",
+    "lead": "有些烏龍的香氣輕揚，有些帶着焙火的溫暖。把它們放在一起，才會發現「烏龍茶」不是單一味道的保證。它更像一個範圍，容得下不同原料、做青方法與火候。"
+  },
+  {
+    "slug": "black-tea-red-liquor",
+    "title": "紅茶為甚麼叫 Black Tea？",
+    "cat": "認識六茶",
+    "images": [
+      "redtea",
+      "notebook"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "tea/black-tea/knowledge-structure/",
+    "lead": "中文稱紅茶，英文常稱 black tea。一個名字望向茶湯，一個名字讓人想到乾葉；兩種語言的習慣並沒有剛好沿着同一條線走。於是，初看英文茶單的人，容易把紅茶與中文的黑茶混為一談。"
+  },
+  {
+    "slug": "dark-tea-time",
+    "title": "黑茶與時間，別只看年份",
+    "cat": "認識六茶",
+    "images": [
+      "compressed",
+      "leafbottom"
+    ],
+    "keys": [
+      "ISO20715"
+    ],
+    "related": "tea/dark-tea/manufacturing/",
+    "lead": "說起黑茶，很容易先談年份。包裝上的數字像一道門，似乎越往前推，門後的滋味便越深。然而，一款茶怎樣製成、怎樣保存，同樣在改寫它的味道；時間沒有獨自完成一切。"
+  },
+  {
+    "slug": "tea-name-origin-cultivar",
+    "title": "茶名、產地、品種：把三張名片分開",
+    "cat": "認識六茶",
+    "images": [
+      "garden",
+      "books"
+    ],
+    "keys": [
+      "ISO20715",
+      "TBR-P"
+    ],
+    "related": "origins/",
+    "lead": "一包茶的名字可以很長：地名、品種、季節、做法，排在一起，彷彿都在介紹同一件事。其實，每一項回答的問題都不同。把它們分開，茶反而更容易理解。"
+  },
+  {
+    "slug": "tea-and-herbal-infusion",
+    "title": "菊花與茶葉，在杯中相遇之前",
+    "cat": "認識六茶",
+    "images": [
+      "water",
+      "leaves"
+    ],
+    "keys": [
+      "ISO20715"
+    ],
+    "related": "teas/",
+    "lead": "日常說「飲茶」，杯裏可能是茶樹的葉，也可能是菊花、薄荷或其他植物。語言很寬，可以容納不同習慣；做分類時，範圍卻要收窄一點，資料才不會彼此混淆。"
+  },
+  {
+    "slug": "first-six-tea-tasting",
+    "title": "第一次並飲六茶，桌面不必太滿",
+    "cat": "認識六茶",
+    "images": [
+      "leaves",
+      "notebook"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "compare/",
+    "lead": "一次泡齊六種茶，看來很有氣勢，卻也容易喝到後面，只剩下濃淡與疲倦。初學比較，不必急於把整幅地圖鋪滿桌面。兩款茶、一張白紙，已足夠開始。"
+  },
+  {
+    "slug": "weigh-the-leaves",
+    "title": "一匙茶有多重？讓秤替眼睛補一筆",
+    "cat": "沖泡手記",
+    "images": [
+      "brewing",
+      "notebook"
+    ],
+    "keys": [
+      "TBR-W"
+    ],
+    "related": "brewing-lab/",
+    "lead": "球形烏龍在匙裏堆得緊，蓬鬆白茶卻佔了很大空間。兩匙看來一樣滿，放上秤，才知道眼睛量的是體積，並不是重量。沖泡忽濃忽淡，有時就從這裏開始。"
+  },
+  {
+    "slug": "actual-water-volume",
+    "title": "壺說一百五十毫升，你真正倒了多少水？",
+    "cat": "沖泡手記",
+    "images": [
+      "gaiwan",
+      "water"
+    ],
+    "keys": [
+      "TBR-W"
+    ],
+    "related": "brewing-lab/",
+    "lead": "壺的容量印在盒上，泡茶時卻未必裝到同一高度。杯蓋要留位置，葉片會佔空間，有人倒到八分，有人習慣再少一點。同一只壺，在兩個人手裏，可以有兩種投茶比例。"
+  },
+  {
+    "slug": "temperature-not-spell",
+    "title": "水溫不是口訣，要連着時間一起讀",
+    "cat": "沖泡手記",
+    "images": [
+      "water",
+      "brewing"
+    ],
+    "keys": [
+      "TBR-W"
+    ],
+    "related": "tea/green-tea/brewing/",
+    "lead": "「這款茶用幾多度？」是一個方便的開場，卻不是完整的沖泡答案。溫度旁邊，還站着茶量、水量與接觸時間。把它們拆開看，任何一項都可能顯得比實際更有決定性。"
+  },
+  {
+    "slug": "when-the-timer-starts",
+    "title": "計時從哪一刻開始？",
+    "cat": "沖泡手記",
+    "images": [
+      "brewing",
+      "notebook"
+    ],
+    "keys": [
+      "TBR-W"
+    ],
+    "related": "brewing-lab/",
+    "lead": "同樣說「浸一分鐘」，有人從第一滴水落下開始，有人等注滿才按錶。出水又需要幾秒，慢壺和快壺也不相同。這些小小的差距，會在一泡接一泡之間累積。"
+  },
+  {
+    "slug": "bitter-adjust-one-thing",
+    "title": "茶太苦，先不要把全部做法推翻",
+    "cat": "沖泡手記",
+    "images": [
+      "notebook",
+      "brewing"
+    ],
+    "keys": [
+      "TBR-W"
+    ],
+    "related": "tea/green-tea/brewing/",
+    "lead": "泡出一杯苦茶，最直覺的反應是下一泡全部改掉：少放葉、降水溫、快出水。味道或許變柔和了，卻也不知道真正有用的是哪一步。下次換一包茶，仍要重新猜起。"
+  },
+  {
+    "slug": "thin-tea-more-leaves",
+    "title": "茶太淡，未必只差多放一匙",
+    "cat": "沖泡手記",
+    "images": [
+      "leaves",
+      "water"
+    ],
+    "keys": [
+      "TBR-W"
+    ],
+    "related": "brewing-lab/",
+    "lead": "一杯茶看來顏色不淺，入口卻像少了一段。有人把它叫「薄」，有人說「沒味」。先停一下，辨清是香氣弱、滋味淡，還是口感不如預期，調整才有方向。"
+  },
+  {
+    "slug": "pour-clear",
+    "title": "出湯這一步，替下一泡留一個起點",
+    "cat": "沖泡手記",
+    "images": [
+      "brewing",
+      "gaiwan"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "brewing-lab/",
+    "lead": "茶從蓋碗流進公道杯，一道短短的水線，看來只是分茶，其實也改變了葉片與水繼續接觸的時間。泡茶的節奏，往往在注水時受注意，在出湯時被忽略。"
+  },
+  {
+    "slug": "gaiwan-start",
+    "title": "用蓋碗，先學會安心拿起和放下",
+    "cat": "沖泡手記",
+    "images": [
+      "gaiwan",
+      "brewing"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "brewing/",
+    "lead": "蓋碗不大，初學時卻容易令人緊張。碗、蓋、托三件放在眼前，似乎每一步都有規矩。真正先要照顧的，是自己的手和熱水，而不是茶席上的姿勢。"
+  },
+  {
+    "slug": "same-tea-two-cups",
+    "title": "一款茶，兩只杯：最簡單的沖泡比較",
+    "cat": "沖泡手記",
+    "images": [
+      "notebook",
+      "water"
+    ],
+    "keys": [
+      "TBR-W"
+    ],
+    "related": "brewing-lab/",
+    "lead": "比較茶，不一定要買很多茶。手邊同一包，分成兩份，反而更容易看見泡法帶來的差別。少了產地與批次的變數，問題可以問得直接一點。"
+  },
+  {
+    "slug": "leave-some-liquor",
+    "title": "留湯續水，是另一種泡茶節奏",
+    "cat": "沖泡手記",
+    "images": [
+      "water",
+      "teatable"
+    ],
+    "keys": [
+      "TBR-W"
+    ],
+    "related": "brewing/",
+    "lead": "大杯裏留着半杯茶，再添熱水，是很多人熟悉的日常。茶味不是一泡一泡截然分開，而是前後相接。這種飲法的從容，與小壺逐泡出清，是兩種不同節奏。"
+  },
+  {
+    "slug": "whole-and-broken",
+    "title": "完整與細碎，茶葉有不同的出場速度",
+    "cat": "沖泡手記",
+    "images": [
+      "leaves",
+      "leafbottom"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "tea/black-tea/brewing/",
+    "lead": "一包茶倒到最後，碎葉比開封時多，是不少人遇過的情況。若仍照原來的茶匙數量與時間沖泡，味道可能忽然重了。這未必是茶變壞，而是杯裏的原料形態已不同。"
+  },
+  {
+    "slug": "waking-rolled-oolong",
+    "title": "球形烏龍展開的那幾分鐘",
+    "cat": "沖泡手記",
+    "images": [
+      "oolong",
+      "leafbottom"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "tea/oolong-tea/brewing/",
+    "lead": "乾葉落進蓋碗，像幾粒深綠的小石。熱水注入後，葉片慢慢鬆開，原來狹小的體積忽然有了枝葉。泡球形烏龍，最值得看的一幕，有時就在第一、二泡之間。"
+  },
+  {
+    "slug": "white-tea-volume",
+    "title": "白茶很蓬鬆，投茶量別只看半個碗",
+    "cat": "沖泡手記",
+    "images": [
+      "white",
+      "gaiwan"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "tea/white-tea/brewing/",
+    "lead": "帶葉帶梗的白茶，輕輕放幾撮便顯得很多。若換成較緊實的芽茶，同樣高度又是另一個重量。白茶的投茶量，最容易在這種視覺差異裏失去準頭。"
+  },
+  {
+    "slug": "red-tea-clear-or-milk",
+    "title": "紅茶加奶之前，先認識原來的茶湯",
+    "cat": "沖泡手記",
+    "images": [
+      "redtea",
+      "notebook"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "tea/black-tea/sensory-characteristics/",
+    "lead": "奶進入茶湯，顏色一下柔和，香氣與口感也換了一種表情。加奶不是對茶的不敬，清飲亦不是唯一正統；兩種飲法有不同的需要。"
+  },
+  {
+    "slug": "compressed-tea-break",
+    "title": "拆一小塊茶，別急着把整餅鬆開",
+    "cat": "沖泡手記",
+    "images": [
+      "compressed",
+      "leaves"
+    ],
+    "keys": [
+      "ISO20715"
+    ],
+    "related": "tea/dark-tea/brewing/",
+    "lead": "緊壓茶的邊緣有時藏着葉片相疊的方向。它不像散茶，打開包裝便能直接量取；多了一個拆茶步驟，也多了一次看清結構的機會。"
+  },
+  {
+    "slug": "cup-colour",
+    "title": "同一杯茶，換個杯子便換一種光",
+    "cat": "沖泡手記",
+    "images": [
+      "notebook",
+      "gaiwan"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "sensory/",
+    "lead": "琥珀色的茶湯倒進白杯與深色杯，眼前的印象可以差很遠。杯口寬窄、湯面深淺、燈光冷暖，也都參與了觀看。顏色是有背景的，並非離開杯子仍完全相同的一個數字。"
+  },
+  {
+    "slug": "water-first",
+    "title": "換茶之前，先喝一口泡茶的水",
+    "cat": "沖泡手記",
+    "images": [
+      "water",
+      "notebook"
+    ],
+    "keys": [
+      "TBR-W"
+    ],
+    "related": "brewing/",
+    "lead": "一包熟悉的茶換了地方，味道忽然不同，未必是記憶出了錯。水源、器具與泡法都可能改變。追查原因時，最容易被忽略的，正是杯中佔最多的那部分。"
+  },
+  {
+    "slug": "preheat-vessel",
+    "title": "溫壺溫杯，是操作，不是表演",
+    "cat": "沖泡手記",
+    "images": [
+      "gaiwan",
+      "water"
+    ],
+    "keys": [
+      "TBR-W"
+    ],
+    "related": "brewing/",
+    "lead": "熱水先進空壺，再倒出來，是常見的泡茶動作。做得流暢時很漂亮，但它的意義不只在姿態。器具原來的溫度，會影響後來茶水接觸的環境。"
+  },
+  {
+    "slug": "tea-at-work",
+    "title": "辦公桌上的茶，可以簡單而有分寸",
+    "cat": "沖泡手記",
+    "images": [
+      "office",
+      "brewing"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "brewing-lab/",
+    "lead": "工作中泡茶，最大的變數往往不是茶葉，而是忽然響起的電話。原本打算很快取出的濾籃，一放便過了半小時。再回來喝，濃度已經換了一回事。"
+  },
+  {
+    "slug": "end-a-session",
+    "title": "一席茶喝到哪裏，才算剛好？",
+    "cat": "沖泡手記",
+    "images": [
+      "teatable",
+      "leafbottom"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "sensory/",
+    "lead": "最後一泡淡了，有人仍想再試一次，有人已經把杯子輕輕放下。耐泡常被說成茶的優點，卻很少有人問：桌邊的人是否還想喝。"
+  },
+  {
+    "slug": "bitter-or-astringent",
+    "title": "苦與澀，先分開說",
+    "cat": "品飲與風味",
+    "images": [
+      "notebook",
+      "leafbottom"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "sensory/",
+    "lead": "說一杯茶「太苦澀」，大家大概明白不太好喝，卻未必知道應該改哪裏。把兩個字暫時分開，口中的感受便開始有了輪廓。"
+  },
+  {
+    "slug": "smell-before-naming",
+    "title": "先聞到，再替香氣命名",
+    "cat": "品飲與風味",
+    "images": [
+      "white",
+      "notebook"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "sensory/",
+    "lead": "一聽見「蘭香」，鼻子便開始找蘭花；一聽見「蜜香」，原本難以形容的氣味又似乎變甜。香氣的名字可以幫忙，也會提前替感受鋪路。"
+  },
+  {
+    "slug": "warm-and-cool",
+    "title": "等茶稍涼，還有另一段味道",
+    "cat": "品飲與風味",
+    "images": [
+      "redtea",
+      "water"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "sensory/",
+    "lead": "熱茶端到面前，香氣先到，舌頭卻未必準備好。急着喝，容易只記得燙。留一點時間，讓茶降至舒適溫度，味道才有空間變得清楚。"
+  },
+  {
+    "slug": "look-at-leafbottom",
+    "title": "喝完才開始的觀察：葉底",
+    "cat": "品飲與風味",
+    "images": [
+      "leafbottom",
+      "leaves"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "tea/white-tea/sensory-characteristics/",
+    "lead": "茶湯已經喝完，碗裏的葉片卻剛剛舒展。乾葉時看不清的芽、梗與葉脈，這時重新露面。葉底像一張被水慢慢打開的紙。"
+  },
+  {
+    "slug": "colour-not-quality",
+    "title": "湯色深淺，不能替滋味評分",
+    "cat": "品飲與風味",
+    "images": [
+      "notebook",
+      "redtea"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "sensory/",
+    "lead": "深紅茶湯在燈下很漂亮，淡金色也有自己的清亮。但當顏色被拿來直接衡量「夠不夠料」，喝茶便少了一半的觀察。"
+  },
+  {
+    "slug": "aftertaste-space",
+    "title": "回味留在哪裏？",
+    "cat": "品飲與風味",
+    "images": [
+      "teatable",
+      "notebook"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "sensory/",
+    "lead": "茶嚥下去以後，口裏仍有變化。有時是一點香，有時是乾感漸退，也有人形容為回甘。這些感受不必急於合併成一個褒義詞。"
+  },
+  {
+    "slug": "taste-without-ranking",
+    "title": "品茶可以有差別，不必每次有冠軍",
+    "cat": "品飲與風味",
+    "images": [
+      "notebook",
+      "teatable"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "compare/",
+    "lead": "兩杯茶並排，問題往往很快變成「邊杯好啲」。一旦決出勝負，另一杯便像失去再談的資格。其實，喜歡與否只是比較的一部分。"
+  },
+  {
+    "slug": "aroma-and-additives",
+    "title": "聞到花香，就代表加了花嗎？",
+    "cat": "品飲與風味",
+    "images": [
+      "oolong",
+      "white"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "tea/oolong-tea/sensory-characteristics/",
+    "lead": "一款茶被形容為花香，並不等於裏面看得到花。茶葉本身的原料與加工，也可以形成讓人聯想到花果的氣味。感官描述與配料表，回答的是兩個不同問題。"
+  },
+  {
+    "slug": "a-small-tasting-notebook",
+    "title": "一本品茶簿，不必寫得像拍賣目錄",
+    "cat": "品飲與風味",
+    "images": [
+      "notebook",
+      "office"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "brewing-lab/",
+    "lead": "漂亮的筆記容易令人想寫得很厲害，於是茶還未入口，已先想好幾個形容詞。其實，一本能讓下次泡得更合意的簿，比一頁滿是名詞的紙更有價值。"
+  },
+  {
+    "slug": "when-nose-is-tired",
+    "title": "聞不出來的時候，先休息",
+    "cat": "品飲與風味",
+    "images": [
+      "rain",
+      "notebook"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "sensory/",
+    "lead": "接連聞了幾杯茶，香氣忽然都變得差不多，並不一定是茶沒有特色。環境氣味、疲倦、身體狀態與連續品飲，都可能讓感受不再清楚。"
+  },
+  {
+    "slug": "withering-is-work",
+    "title": "萎凋：竹篩上的安靜工作",
+    "cat": "製茶與葉片",
+    "images": [
+      "withering",
+      "white"
+    ],
+    "keys": [
+      "WHITE-M",
+      "WHITE-E"
+    ],
+    "related": "tea/white-tea/manufacturing/",
+    "lead": "葉片攤在竹篩上，看來沒有誰在加工它。沒有鍋鏟聲，也沒有急促轉動的機器，容易令人以為只要等待，茶便會自己完成。萎凋的細節，恰恰藏在這種安靜裏。"
+  },
+  {
+    "slug": "fixation-turning-point",
+    "title": "殺青，是葉片轉向的一刻",
+    "cat": "製茶與葉片",
+    "images": [
+      "pan",
+      "leaves"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "tea/green-tea/manufacturing/",
+    "lead": "一鍋葉片接觸熱，青草氣與水汽一同升起。對觀看的人來說，這是鮮明的畫面；對製茶而言，它更是一個讓後續變化改道的環節。"
+  },
+  {
+    "slug": "rolling-shape",
+    "title": "揉捻，不只為了把葉子捲漂亮",
+    "cat": "製茶與葉片",
+    "images": [
+      "leaves",
+      "leafbottom"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "processes/",
+    "lead": "條索、顆粒、扁片，乾茶的形態各有秩序。初看製茶，很容易把揉捻理解為整理外觀；但葉片在受力之後，改變的不只是姿態。"
+  },
+  {
+    "slug": "drying-and-roasting",
+    "title": "乾燥與焙火，兩個不能隨便交換的詞",
+    "cat": "製茶與葉片",
+    "images": [
+      "roast",
+      "leaves"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "crafts/",
+    "lead": "「烘過」是一句很方便的話，卻可能把不同工序混在一起。降低水分、穩定成茶與形成某種焙火風格，往往需要分開說，才看得清各自的目的。"
+  },
+  {
+    "slug": "yellowing-conditions",
+    "title": "悶黃需要的是條件，不只是等待",
+    "cat": "製茶與葉片",
+    "images": [
+      "leaves",
+      "science"
+    ],
+    "keys": [
+      "YELLOW-P"
+    ],
+    "related": "tea/yellow-tea/manufacturing/",
+    "lead": "「悶」字容易令人想到把葉包好，等一會便成。真正的悶黃卻不是一段任意空白，而是原料在水分、熱與空氣條件中轉變的過程。"
+  },
+  {
+    "slug": "oolong-rest-and-turn",
+    "title": "做青的節奏：動一下，也靜一會",
+    "cat": "製茶與葉片",
+    "images": [
+      "withering",
+      "oolong"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "tea/oolong-tea/manufacturing/",
+    "lead": "製茶現場的動作容易被鏡頭記住，靜置卻常被略過。看烏龍做青，若只看攪拌的一刻，便少看了工序的一半。"
+  },
+  {
+    "slug": "oxidation-fermentation",
+    "title": "「發酵」兩個字，為何要看上下文？",
+    "cat": "製茶與葉片",
+    "images": [
+      "science",
+      "withering"
+    ],
+    "keys": [
+      "TBR-P",
+      "ISO20715"
+    ],
+    "related": "processes/",
+    "lead": "在茶的語言裏，「發酵」常被用得很寬。它有時指葉內成分的酶促氧化，有時涉及微生物參與。兩種情況若只留下同一個詞，讀者便容易想成同一件事。"
+  },
+  {
+    "slug": "stems-have-place",
+    "title": "茶梗不是一句「雜質」就能解釋",
+    "cat": "製茶與葉片",
+    "images": [
+      "leafbottom",
+      "white"
+    ],
+    "keys": [
+      "LEAF-STEM"
+    ],
+    "related": "tea/white-tea/manufacturing/",
+    "lead": "把茶倒在碟上，嫩梗有時比葉片更引人注意。有人立即想把它挑掉，也有人把它說成滋味的秘密。兩種說法都太快，忘了先問原料與工藝。"
+  },
+  {
+    "slug": "handmade-and-machine",
+    "title": "手作與機器之間，別急着替品質站隊",
+    "cat": "製茶與葉片",
+    "images": [
+      "pan",
+      "withering"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "crafts/",
+    "lead": "手掌翻動茶葉的畫面很動人，機械運作則較少被拿來寫成故事。但成茶的品質，不能只由「手作」或「機製」兩個標籤決定。"
+  },
+  {
+    "slug": "one-photo-not-process",
+    "title": "一張製茶照片，能說多少事情？",
+    "cat": "製茶與葉片",
+    "images": [
+      "books",
+      "pan"
+    ],
+    "keys": [
+      "TBR-P"
+    ],
+    "related": "processes/",
+    "lead": "照片裏有人炒茶，便可以說明「有人正在炒茶」。但它未必能證明整批茶全由手工完成，也未必交代拍攝年份、原料來源或最後產品。畫面鮮明，推論仍要有邊界。"
+  },
+  {
+    "slug": "humidity-in-hong-kong",
+    "title": "香港的潮濕，先從茶罐蓋好說起",
+    "cat": "保存與選茶",
+    "images": [
+      "storage",
+      "rain"
+    ],
+    "keys": [
+      "TBR-S"
+    ],
+    "related": "guides/storage/",
+    "lead": "回南天的窗玻璃蒙上一層水氣，家中的茶也需要多一點照顧。保存不一定從昂貴設備開始，往往先從取茶後有沒有好好密封開始。"
+  },
+  {
+    "slug": "small-portions",
+    "title": "大包分小包，少一點反覆開合",
+    "cat": "保存與選茶",
+    "images": [
+      "storage",
+      "office"
+    ],
+    "keys": [
+      "TBR-S"
+    ],
+    "related": "guides/storage/",
+    "lead": "一大包茶價格合意，開封後卻要喝很久。每天只取少量，整包茶便每天跟着接觸空氣。把近期要喝的份量分開，有時比換一只更漂亮的罐子實際。"
+  },
+  {
+    "slug": "light-on-tea",
+    "title": "玻璃罐很美，茶卻未必需要天天曬光",
+    "cat": "保存與選茶",
+    "images": [
+      "storage",
+      "leaves"
+    ],
+    "keys": [
+      "TBR-S"
+    ],
+    "related": "guides/storage/",
+    "lead": "乾葉盛在透明罐裏，形態和顏色都一覽無遺。作短暫展示很吸引，若長期放在窗邊，卻要考慮光線與溫度，而不只是陳列效果。"
+  },
+  {
+    "slug": "odours-in-cupboard",
+    "title": "茶櫃旁邊，還放着甚麼？",
+    "cat": "保存與選茶",
+    "images": [
+      "storage",
+      "water"
+    ],
+    "keys": [
+      "TBR-S"
+    ],
+    "related": "guides/storage/",
+    "lead": "一罐茶放得很整齊，旁邊卻可能是咖啡、香料或清潔用品。談保存時，人容易只看茶罐本身，忘了它所在的整個環境。"
+  },
+  {
+    "slug": "date-on-the-packet",
+    "title": "生產、包裝、開封：三個日期各有用途",
+    "cat": "保存與選茶",
+    "images": [
+      "storage",
+      "notebook"
+    ],
+    "keys": [
+      "TBR-S"
+    ],
+    "related": "guides/buying/",
+    "lead": "包裝上有日期，回家以後自己又寫一個日期，並不重複。生產、包裝和開封，記錄的是不同事情；若全部只叫「年份」，往後便很容易混淆。"
+  },
+  {
+    "slug": "old-tea-not-trophy",
+    "title": "老茶不是一張自動升值的獎狀",
+    "cat": "保存與選茶",
+    "images": [
+      "compressed",
+      "storage"
+    ],
+    "keys": [
+      "TBR-S"
+    ],
+    "related": "tea/dark-tea/knowledge-structure/",
+    "lead": "年份讓茶有了故事，也容易讓人把等待本身當成價值。可是一包茶放過多少年，與它是否保存合宜、是否合口味，始終是不同問題。"
+  },
+  {
+    "slug": "mould-is-not-aroma",
+    "title": "霉味不需要一個漂亮名字",
+    "cat": "保存與選茶",
+    "images": [
+      "storage",
+      "compressed"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/storage/",
+    "lead": "面對昂貴或放了很久的茶，人難免捨不得。若出現明顯霉變、受潮異常或可疑氣味，故事愈多，反而愈容易替繼續飲用找理由。"
+  },
+  {
+    "slug": "tea-fridge-question",
+    "title": "茶放雪櫃之前，先想開合的那一刻",
+    "cat": "保存與選茶",
+    "images": [
+      "storage",
+      "water"
+    ],
+    "keys": [
+      "TBR-S"
+    ],
+    "related": "guides/storage/",
+    "lead": "雪櫃看來乾淨又低溫，卻也放着各種食物。茶能不能放，不能只看「冷」這一項；包裝密封、異味與取出後的溫差，都需要考慮。"
+  },
+  {
+    "slug": "travel-tea",
+    "title": "出門帶茶，帶一點就好",
+    "cat": "保存與選茶",
+    "images": [
+      "office",
+      "storage"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/storage/",
+    "lead": "行李有限，茶卻很容易帶得太多。幾個地方轉來轉去，最後只喝了一包，其餘跟着受熱、受壓，回家又說不清哪袋開過。"
+  },
+  {
+    "slug": "finish-open-packet",
+    "title": "把一包茶喝完，也是一種認識",
+    "cat": "保存與選茶",
+    "images": [
+      "storage",
+      "notebook"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/buying/",
+    "lead": "新茶總令人想拆，茶櫃裏於是愈來愈多半包。有些只泡過一次，尚未熟悉它的脾氣，另一個名字已經把注意力帶走。"
+  },
+  {
+    "slug": "read-the-participants",
+    "title": "讀茶研究，先看看杯子交到誰手上",
+    "cat": "研究閱讀",
+    "images": [
+      "science",
+      "books"
+    ],
+    "keys": [
+      "NCCIH"
+    ],
+    "related": "guides/research/",
+    "lead": "一則標題說茶對身體有好處，讀到文章深處，才發現接受處理的是細胞。研究本身可以有價值，只是它回答的問題，跟日常飲茶還有一段距離。"
+  },
+  {
+    "slug": "extract-and-a-cup",
+    "title": "一粒萃取物，與桌上的一杯茶",
+    "cat": "研究閱讀",
+    "images": [
+      "science",
+      "brewing"
+    ],
+    "keys": [
+      "NCCIH",
+      "EFSA"
+    ],
+    "related": "guides/research/",
+    "lead": "論文裏的茶，有時不是一壺泡好的茶。它可能是膠囊中的萃取物，也可能是經過分離的成分。名稱相近，攝取方式卻可以相差很遠。"
+  },
+  {
+    "slug": "caffeine-without-a-ranking",
+    "title": "咖啡因，不能只靠茶湯深淺來猜",
+    "cat": "研究閱讀",
+    "images": [
+      "leaves",
+      "office"
+    ],
+    "keys": [
+      "NCCIH"
+    ],
+    "related": "guides/research/",
+    "lead": "清淡的茶湯看來很輕，深紅的茶湯看來很濃，眼睛很容易替它們排出一個次序。但顏色不是咖啡因的量杯，六大茶的名稱也不是固定劑量。"
+  },
+  {
+    "slug": "association-is-a-start",
+    "title": "常喝茶的人，還做了甚麼？",
+    "cat": "研究閱讀",
+    "images": [
+      "books",
+      "teatable"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/research/",
+    "lead": "一項研究發現，喝茶的人某個健康指標較好。這是一個值得追問的現象，卻還未回答：差別究竟由甚麼造成？"
+  },
+  {
+    "slug": "why-a-control-group",
+    "title": "比較的另一邊，放了甚麼？",
+    "cat": "研究閱讀",
+    "images": [
+      "science",
+      "notebook"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/research/",
+    "lead": "兩杯茶放在桌上，品飲者自然會比較。科學研究也需要比較，只是比較的另一邊，必須說得更清楚。"
+  },
+  {
+    "slug": "count-the-finishers",
+    "title": "有多少人開始，又有多少人走到最後？",
+    "cat": "研究閱讀",
+    "images": [
+      "notebook",
+      "science"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/research/",
+    "lead": "研究摘要裏的一個人數，看來簡單，卻可能指不同階段。招募、入組、分組、完成與納入分析，並不一定是同一批數字。"
+  },
+  {
+    "slug": "review-is-not-one-trial",
+    "title": "一篇綜述，裝着多少種問題？",
+    "cat": "研究閱讀",
+    "images": [
+      "books",
+      "science"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/research/",
+    "lead": "綜述像一間整理過的書房，把分散的研究帶到同一張桌上。它方便入門，卻不表示桌上的每份材料用了相同方法，或得出同樣結論。"
+  },
+  {
+    "slug": "chemical-number-and-flavour",
+    "title": "測出一種成分，不等於讀懂整杯茶",
+    "cat": "研究閱讀",
+    "images": [
+      "science",
+      "leafbottom"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/research/",
+    "lead": "分析儀器能把杯中許多細微的成分分辨出來。這讓茶的研究更精細，也容易令人產生一個念頭：找到某個數字，是否就找到了品質的答案？"
+  },
+  {
+    "slug": "difference-that-matters",
+    "title": "有差異，還要問差多少",
+    "cat": "研究閱讀",
+    "images": [
+      "notebook",
+      "books"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/research/",
+    "lead": "「有顯著差異」很容易成為研究報道裏最響亮的一句。可是真正閱讀結果時，還有一個較安靜的問題：差多少？"
+  },
+  {
+    "slug": "a-claim-back-to-source",
+    "title": "從一句功效，走回原來那篇文章",
+    "cat": "研究閱讀",
+    "images": [
+      "books",
+      "water"
+    ],
+    "keys": [
+      "NCCIH"
+    ],
+    "related": "guides/research/",
+    "lead": "一段廣告引用「科學研究」，卻沒有作者、年份或連結，讀者便很難往下走。來源的用處，不只是讓句子看來莊重，而是讓人能回到原來的問題。"
+  },
+  {
+    "slug": "old-name-new-tea",
+    "title": "古書裏同一個茶名，未必是今天同一杯茶",
+    "cat": "茶與文化",
+    "images": [
+      "books",
+      "leaves"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/history/",
+    "lead": "在古書裏遇到熟悉的茶名，像在陌生地方聽見舊朋友的名字，總令人想靠近一點。但名字留下來，製法、產區與使用方式卻未必原封不動。"
+  },
+  {
+    "slug": "date-of-a-story",
+    "title": "故事發生的年代，與被寫下的年代",
+    "cat": "茶與文化",
+    "images": [
+      "books",
+      "notebook"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/history/",
+    "lead": "一段茶的傳說說起很早的事，保存它的書卻可能成於很久以後。閱讀時若只留下故事中的年份，兩段時間便會悄悄混在一起。"
+  },
+  {
+    "slug": "legend-at-the-table",
+    "title": "傳說可以動人，也可以有自己的位置",
+    "cat": "茶與文化",
+    "images": [
+      "teatable",
+      "books"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/history/",
+    "lead": "茶席上的故事，有時比第一口茶更早抵達。某位古人、某座山、某次偶然，幾句話便替一種茶添上遠景。聽故事的樂趣，不必依靠把它全部當作已證實的歷史。"
+  },
+  {
+    "slug": "read-a-tea-book-slowly",
+    "title": "翻茶書時，把書名也讀完",
+    "cat": "茶與文化",
+    "images": [
+      "books",
+      "rain"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/history/",
+    "lead": "摘錄一句古文很方便，摘錄它所在的書、篇章與版本，卻常被省略。留下來的句子優美了，來路也模糊了。"
+  },
+  {
+    "slug": "vessel-and-way-of-drinking",
+    "title": "看一件茶器，也看它怎樣被使用",
+    "cat": "茶與文化",
+    "images": [
+      "gaiwan",
+      "books"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/history/",
+    "lead": "茶器放在展櫃中，輪廓總比動作容易看見。杯沿、把手、容量和開口，卻都曾與人的手、茶的形態及飲用方式相遇。"
+  },
+  {
+    "slug": "living-tea-heritage",
+    "title": "茶的傳承，仍在人的手裏",
+    "cat": "茶與文化",
+    "images": [
+      "withering",
+      "teatable"
+    ],
+    "keys": [
+      "UNESCO"
+    ],
+    "related": "guides/history/",
+    "lead": "談茶文化，很容易先想到典籍和器物。其實茶也活在人的動作裏：採葉、攤放、翻動、沖泡，再把杯子遞給另一個人。"
+  },
+  {
+    "slug": "tea-and-literature",
+    "title": "寫茶，不必每一口都像山河",
+    "cat": "茶與文化",
+    "images": [
+      "rain",
+      "notebook"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "blog/a-small-tasting-notebook/",
+    "lead": "茶的文字容易寫得很遠：一口入口，山林、雲霧與歲月同時到來。偶爾如此並無不可，但如果每杯茶都承載整個天地，眼前的細節反而無處安放。"
+  },
+  {
+    "slug": "hosting-without-performance",
+    "title": "請人喝茶，先讓人坐得自在",
+    "cat": "茶與文化",
+    "images": [
+      "teatable",
+      "brewing"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/brewing/",
+    "lead": "茶席布置得很漂亮，客人卻怕拿錯杯、說錯話，整個人坐得比茶盤還端正。待客的心意，有時需要從減少壓力開始。"
+  },
+  {
+    "slug": "tea-with-family",
+    "title": "一家人的茶桌，容得下不同濃淡",
+    "cat": "茶與文化",
+    "images": [
+      "teatable",
+      "water"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/brewing/",
+    "lead": "同一壺茶，家人可能有不同感受。有人覺得剛好，有人嫌苦，有人只想喝清水。熟悉的人坐在一起，更不需要以一種喝法來證明彼此懂茶。"
+  },
+  {
+    "slug": "quiet-does-not-need-a-label",
+    "title": "安靜喝茶，不用替它取一個大名字",
+    "cat": "茶與文化",
+    "images": [
+      "rain",
+      "teatable"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "blog/end-a-session/",
+    "lead": "有時想喝茶，只因為手邊有一包喜歡的茶，水也剛好煮開。這樣的理由已很完整，不必再加上一套關於修養或境界的說明。"
+  },
+  {
+    "slug": "read-a-tea-label",
+    "title": "買茶時，先讀包裝上的小字",
+    "cat": "保存與選茶",
+    "images": [
+      "storage",
+      "notebook"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/buying/",
+    "lead": "漂亮的名字吸引人拿起一包茶，真正方便日後判斷的，往往是背面那些不太搶眼的小字。茶名之外，還有材料、產地、日期、保存方式與供應者資料。"
+  },
+  {
+    "slug": "buy-a-small-sample",
+    "title": "先買一點，讓自己的杯子回答",
+    "cat": "保存與選茶",
+    "images": [
+      "leaves",
+      "gaiwan"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/buying/",
+    "lead": "在店裏喝到一款好茶，很容易想把那個味道整包帶走。回到家，用自己的水、杯子和日常時間再試一次，則是另一種了解。"
+  },
+  {
+    "slug": "season-on-the-label",
+    "title": "春茶兩個字，還不是整個答案",
+    "cat": "保存與選茶",
+    "images": [
+      "garden",
+      "leaves"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/buying/",
+    "lead": "春天的名字很有吸引力，讓人想到新芽、薄光與清新的香氣。可是買茶時，季節只是其中一項資料，不能單獨承擔品質的全部判斷。"
+  },
+  {
+    "slug": "a-place-name-on-tea",
+    "title": "產地的名字，要問到哪一層？",
+    "cat": "保存與選茶",
+    "images": [
+      "garden",
+      "books"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/buying/",
+    "lead": "一個著名產區的名字，可以喚起很多想像。山的形勢、空氣的濕度、地方手藝，都彷彿跟着印到茶袋上。但名稱究竟指哪個範圍，仍需要說明。"
+  },
+  {
+    "slug": "cultivar-is-not-the-whole-cup",
+    "title": "知道品種以後，還可以再問甚麼？",
+    "cat": "保存與選茶",
+    "images": [
+      "garden",
+      "withering"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/buying/",
+    "lead": "品種的名字像一把鑰匙，讓茶葉多了一個可以追問的起點。但即使使用相同品種，不同原料條件、採製安排與加工，也可能帶來不同表現。"
+  },
+  {
+    "slug": "price-and-value",
+    "title": "茶的價格，與你會不會喝完",
+    "cat": "保存與選茶",
+    "images": [
+      "storage",
+      "teatable"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/buying/",
+    "lead": "一款茶昂貴，可能有不同原因；一款茶便宜，也不必然沒有可取之處。購買之前，除了問價格如何形成，還可以問一個很生活的問題：我會怎樣喝它？"
+  },
+  {
+    "slug": "give-tea-thoughtfully",
+    "title": "送茶之前，先想對方怎樣生活",
+    "cat": "保存與選茶",
+    "images": [
+      "teatable",
+      "storage"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/buying/",
+    "lead": "送茶常常從包裝開始挑，真正收到禮物的人，卻要把它放進自己的生活。家裏有沒有合適器具、平日是否喝茶、能否在開封後喝完，都值得先想一想。"
+  },
+  {
+    "slug": "compare-two-purchases",
+    "title": "比較兩款茶，讓條件盡量靠近",
+    "cat": "保存與選茶",
+    "images": [
+      "notebook",
+      "brewing"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/brewing/",
+    "lead": "兩款茶前後相隔一星期才喝，記憶很容易只留下最後的印象。如果想比較細節，可以安排一次簡單的並排品飲。"
+  },
+  {
+    "slug": "three-questions-in-a-teashop",
+    "title": "在茶店，多問三個具體問題",
+    "cat": "保存與選茶",
+    "images": [
+      "notebook",
+      "leaves"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/buying/",
+    "lead": "「這款好不好？」是一個很難回答得有用的問題。換成更具體的問法，店家較容易說清楚，你也較容易判斷是否適合。"
+  },
+  {
+    "slug": "no-universal-best-tea",
+    "title": "不急着找到全世界最好的茶",
+    "cat": "保存與選茶",
+    "images": [
+      "leaves",
+      "teatable"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "teas/",
+    "lead": "初學時，人很自然想找一份排行榜，從第一名開始喝，彷彿這樣便能避開所有彎路。可是茶的可愛，常常正在不同風格各自成立的地方。"
+  },
+  {
+    "slug": "rain-by-the-window",
+    "title": "雨停以前，先把這杯茶喝完",
+    "cat": "茶的日常",
+    "images": [
+      "rain",
+      "water"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "blog/humidity-in-hong-kong/",
+    "lead": "雨落在窗外，聲音密密地鋪開。桌面不用很多東西，一只杯、一點茶，便足以讓下午有一個可以停留的位置。"
+  },
+  {
+    "slug": "a-clear-table",
+    "title": "桌上少一件東西，動作便清楚一點",
+    "cat": "茶的日常",
+    "images": [
+      "gaiwan",
+      "teatable"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "guides/brewing/",
+    "lead": "開始泡茶前，先把桌面留出一塊空位。有時最有用的準備，不是多添一件茶具，而是移走暫時用不到的東西。"
+  },
+  {
+    "slug": "the-first-sip",
+    "title": "第一口，不用急着說出答案",
+    "cat": "茶的日常",
+    "images": [
+      "brewing",
+      "notebook"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "blog/smell-before-naming/",
+    "lead": "茶剛倒出來，旁邊的人問：「有沒有聞到花香？」一個問題有時來得太快，第一口還未入口，答案已在杯邊等着。"
+  },
+  {
+    "slug": "a-short-afternoon-break",
+    "title": "工作之間，給水煮開的幾分鐘",
+    "cat": "茶的日常",
+    "images": [
+      "office",
+      "water"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "blog/tea-at-work/",
+    "lead": "工作做到一半，眼睛仍然盯着螢幕，手卻開始找杯子。想休息，不一定需要安排一個完整儀式；走開一下，重新煮水，也可以是一段轉換。"
+  },
+  {
+    "slug": "two-cups-and-a-conversation",
+    "title": "兩只杯，話可以慢慢說",
+    "cat": "茶的日常",
+    "images": [
+      "teatable",
+      "brewing"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "blog/hosting-without-performance/",
+    "lead": "兩個人坐下來，並不一定立即有很多話。先把杯子放好，水注下去，空白便有了一個自然的去處。"
+  },
+  {
+    "slug": "a-familiar-cup",
+    "title": "一只常用的杯，比一櫃新杯更熟悉",
+    "cat": "茶的日常",
+    "images": [
+      "gaiwan",
+      "notebook"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "blog/cup-colour/",
+    "lead": "杯子的重量，杯沿碰到嘴唇的感覺，手指扶住它的位置，用久了便不需要再想。熟悉的器物，會替日常省下一點注意力。"
+  },
+  {
+    "slug": "after-the-last-infusion",
+    "title": "最後一道之後，仍有一點茶事",
+    "cat": "茶的日常",
+    "images": [
+      "leafbottom",
+      "gaiwan"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "blog/end-a-session/",
+    "lead": "茶喝到最後，話題散了，桌面還有幾滴水。這時候不急着再添一道，也可以把注意力交給收拾。"
+  },
+  {
+    "slug": "a-tea-note-one-month-later",
+    "title": "一個月後，重讀自己的品茶筆記",
+    "cat": "茶的日常",
+    "images": [
+      "notebook",
+      "books"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "blog/a-small-tasting-notebook/",
+    "lead": "剛寫下的品茶筆記，往往覺得意思很清楚。隔一段時間再看，才發現「很香」「不錯」「下次再買」留下的資訊其實不多。"
+  },
+  {
+    "slug": "tea-away-from-home",
+    "title": "帶一小包茶出門，把熟悉留在行李裏",
+    "cat": "茶的日常",
+    "images": [
+      "office",
+      "storage"
+    ],
+    "keys": [
+      ""
+    ],
+    "related": "blog/travel-tea/",
+    "lead": "行李不用很大，一小包熟悉的茶便放得下。到了陌生房間，有熱水、有乾淨杯子，就能找到一點自己的節奏。"
+  },
+  {
+    "slug": "return-to-an-ordinary-cup",
+    "title": "讀了很多茶，最後仍回到一杯茶",
+    "cat": "茶的日常",
+    "images": [
+      "teatable",
+      "garden"
+    ],
+    "keys": [
+      "ISO20715"
+    ],
+    "related": "teas/",
+    "lead": "知道六大茶的分類、製作與研究之後，再拿起日常那包茶，包裝或許沒有變，眼前的細節卻多了起來。葉形、香氣、來源和沖泡，都有了可以追問的地方。"
+  }
+]

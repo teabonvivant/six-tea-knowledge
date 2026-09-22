@@ -6,23 +6,23 @@
     const storageKey = 'tea-atlas.saved.v4';
     const $ = (selector) => document.querySelector(selector);
     const message = text => { const el = $('[data-reader-message]'); if (el) el.textContent = text; };
-    const safeRoute = route => typeof route === 'string' && /^\/six-tea-knowledge\/tea\/(green|white|yellow|oolong|black|dark)-tea\/[a-z-]+\/$/.test(route);
+    const safeRoute = route => typeof route === 'string' && /^\/six-tea-knowledge\/(?:tea\/(?:green|white|yellow|oolong|black|dark)-tea\/[a-z-]+|blog\/[a-z0-9-]+|guides\/[a-z-]+)\/$/.test(route);
     const saved = () => {
       const data = JSON.parse(localStorage.getItem(storageKey) || '[]');
-      return Array.isArray(data) ? data.filter(x => x && safeRoute(x.route) && typeof x.title === 'string').slice(0,100) : [];
+      return Array.isArray(data) ? data.filter(x => x && safeRoute(x.route) && typeof x.title === 'string').slice(0,300) : [];
     };
     const toolbar = $('[data-reading-tools]');
     if (toolbar) {
       toolbar.hidden = false;
       const route = document.body.dataset.route;
       const save = $('[data-save-chapter]');
-      const refresh = () => { try { const found = saved().some(x => x.route === route); save.setAttribute('aria-pressed',String(found)); save.textContent = found ? '已收藏本章' : '收藏本章'; } catch { save.setAttribute('aria-pressed','false'); } };
+      const refresh = () => { try { const found = saved().some(x => x.route === route); save.setAttribute('aria-pressed',String(found)); save.textContent = found ? '已收藏文章' : '收藏文章'; } catch { save.setAttribute('aria-pressed','false'); } };
       refresh();
       save?.addEventListener('click',() => {
         try {
           if (!safeRoute(route)) throw new Error('Invalid route');
           const list = saved(), exists = list.some(x => x.route === route);
-          const next = exists ? list.filter(x => x.route !== route) : [{route,title:document.querySelector('h1').textContent.trim()},...list].slice(0,100);
+          const next = exists ? list.filter(x => x.route !== route) : [{route,title:document.querySelector('h1').textContent.trim()},...list].slice(0,300);
           localStorage.setItem(storageKey,JSON.stringify(next)); refresh();
           message(exists ? '已取消收藏。' : '已收藏。資料只存於此瀏覽器，不會同步到其他裝置。');
         } catch { message('此瀏覽器未能保存收藏；仍可使用瀏覽器本身的書籤功能。'); }
@@ -36,8 +36,8 @@
       toggle?.addEventListener('click',() => {
         const details = [...document.querySelectorAll('main > details.source-disclosure')];
         const expand = details.some(x => !x.open); details.forEach(x => { x.open = expand; });
-        toggle.setAttribute('aria-expanded',String(expand)); toggle.textContent = expand ? '收起本章來源' : '展開本章來源';
-        message(expand ? '已展開正文下方的來源；可由目錄跳至原始引文。' : '已收起本章來源。');
+        toggle.setAttribute('aria-expanded',String(expand)); toggle.textContent = expand ? '收起資料來源' : '展開資料來源';
+        message(expand ? '已展開正文下方的資料來源。' : '已收起資料來源。');
       });
     }
     const savedRoot = $('[data-saved-list]');
@@ -46,7 +46,7 @@
         savedRoot.replaceChildren();
         try {
           const rows = saved();
-          if (!rows.length) { const p = document.createElement('p'); p.className = 'v4-empty'; p.textContent = '尚未收藏章節。打開任何六大茶專章，按「收藏本章」即可加入。'; savedRoot.append(p); return; }
+          if (!rows.length) { const p = document.createElement('p'); p.className = 'v4-empty'; p.textContent = '書架還是空的。打開茶誌、指南或六大茶專章，按「收藏文章」即可加入。'; savedRoot.append(p); return; }
           const ul = document.createElement('ul'); ul.className = 'v4-saved';
           for (const row of rows) {
             const li = document.createElement('li'), a = document.createElement('a'), button = document.createElement('button');

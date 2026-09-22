@@ -36,10 +36,10 @@
   async function records() {
     if (!loading) loading = (async () => {
       if (section) {
-        const response = await fetch(base + 'assets/search/' + section + '.json?v=20260916-1');
+        const response = await fetch(base + 'assets/search/' + section + '.json?v=20260922-5');
         if (response.ok) return response.json();
       }
-      const response = await fetch(base + 'assets/search-index.json?v=20260916-1');
+      const response = await fetch(base + 'assets/search-index.json?v=20260922-5');
       if (!response.ok) throw new Error('Search index unavailable');
       return response.json();
     })().catch(error => { loading = null; throw error; });

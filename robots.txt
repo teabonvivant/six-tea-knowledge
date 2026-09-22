@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /six-tea-knowledge/_views/
+Sitemap: https://teabonvivant.github.io/six-tea-knowledge/sitemap.xml
